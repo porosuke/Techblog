@@ -49,6 +49,6 @@ https://zenn.dev/make_it/articles/7e1e108de83e84#2
 1. gitにPushする
 ```bash
 git add .
-git commit -m ""
-git push -u origin main
+git commit -m "記事を追加: 記事のタイトル"
+git push origin main
 ```
